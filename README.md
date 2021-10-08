@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakesh-aitham
+- 👋 Hi, I’m Rakesh
 - 👀 I’m interested in developing Web Pages and Flutter Applications.
 - 🌱 I’m currently learning Flutter Framework.
 - 💞️ I love writing code and reading about it.
